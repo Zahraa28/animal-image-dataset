@@ -18,7 +18,7 @@ The dataset includes images from the following seven animal categories:
 
 ## Data Collection
 
-- **Source:** [https://api.unsplash.com/search/photos]
+- **Source:** [https://api.unsplash.com/]
 - **Total Images Collected:** `8,076`
 - **Sample Provided:** {'Dogs':1440, 'Cats':1463, 'Deers':1474, 'Elephants':1262, 'Lions':988, 'Dolphins':840, 'Tigers':609}
 - **Format:** `.jpg`
