@@ -45,7 +45,7 @@ The dataset includes images from the following seven animal categories:
 
 ## Sample Images
 
-A few images from each category are included in this repository for demonstration.
+An image from each category are included in this repository for demonstration.
 [https://github.com/Zahraa28/animal-image-dataset/blob/main/image_2.jpg],
 [https://github.com/Zahraa28/animal-image-dataset/blob/main/image_17.jpg],
 [https://github.com/Zahraa28/animal-image-dataset/blob/main/image_12.jpg],
