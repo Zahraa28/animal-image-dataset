@@ -29,17 +29,18 @@ The dataset includes images from the following seven animal categories:
 ```
 /animal_dataset_sample
     ├── data.py/
-    ├── dog/
-    │   ├── image_1.jpg
-    │   ├── image_2.jpg
-    │   └── ...
-    ├── cat/
-    ├── deer/
-    ├── elephant/
-    ├── lion/
-    ├── dolphin/
-    ├── tiger/
-    ├── README.md
+    ├──animals/
+        ├── dog/
+        │   ├── image_1.jpg
+        │   ├── image_2.jpg
+        │   └── ...
+        ├── cat/
+        ├── deer/
+        ├── elephant/
+        ├── lion/
+        ├── dolphin/
+        └── tiger/
+    └── README.md
 ```
 
 ## Sample Images
