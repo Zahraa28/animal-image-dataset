@@ -9,7 +9,7 @@ from tqdm import tqdm
 API_url = "https://api.unsplash.com/search/photos"
 
 # Unsplash API credentials
-ACCESS_KEY = "jiu_9eGLP6EtDRK5WJBF6oIKM4aNENRi-hUakOfeTqc"
+ACCESS_KEY = "###############################"
 PER_PAGE = 30
 TOTAL_PAGES = 50  # Total API requests/pages to fetch
 
