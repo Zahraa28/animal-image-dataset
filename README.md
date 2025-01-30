@@ -1,4 +1,4 @@
-# Animal Image Dataset (Sample)
+# Animal Image Dataset
 
 ## Overview
 
