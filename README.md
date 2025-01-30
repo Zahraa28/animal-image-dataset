@@ -46,6 +46,7 @@ The dataset includes images from the following seven animal categories:
 
 A few images from each category are included in this repository for demonstration.
 
+
 ## Usage
 
 You can use this dataset for:
