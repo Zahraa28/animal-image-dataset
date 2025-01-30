@@ -50,6 +50,7 @@ A few images from each category are included in this repository for demonstratio
 [https://github.com/Zahraa28/animal-image-dataset/blob/main/image_17.jpg],
 [https://github.com/Zahraa28/animal-image-dataset/blob/main/image_12.jpg],
 [https://github.com/Zahraa28/animal-image-dataset/blob/main/image_55.jpg],
+[https://github.com/Zahraa28/animal-image-dataset/blob/main/image_114.jpg],
 [https://github.com/Zahraa28/animal-image-dataset/blob/main/image_293.jpg],
 [https://github.com/Zahraa28/animal-image-dataset/blob/main/image_602.jpg]
 
